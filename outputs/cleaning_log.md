@@ -44,3 +44,7 @@
 
 Checked only the columns mentioned in the assignment for data discrepancy / formatting issues. Applied the limited business rules provided. Beyond the above, there is a possibility of data issues in other columns.
 
+
+
+Refer files cleaned_orders.xlsx & data_quality_report.xlsx for in depth summaries.
+
