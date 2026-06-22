@@ -16,7 +16,9 @@ The company has exported order-level sales data from multiple internal systems. 
 ## Tools used
 
 MS Excel
+
 VS code
+
 MS Paint
 
 ## Cleaning steps performed
